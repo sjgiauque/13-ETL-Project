@@ -1,0 +1,11 @@
+#Sourced From QuickDBD: https://www.quickdatabasediagrams.com/
+
+renewable_energy_db
+-
+year INT PK
+"fossil_fuels_qbtu DECIMAL VARCHAR(30)
+"nuclear_qbtu DECIMAL VARCHAR(30)
+"renewable_qbtu DECIMAL VARCHAR(30)
+"total_energy_production_qbtu DECIMAL VARCHAR(30)
+"electricity_emissions DECIMAL VARCHAR(30)
+"us_population INT VARCHAR(30)
